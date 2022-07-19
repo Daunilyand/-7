@@ -1,0 +1,5 @@
+z = float(input("A = "))
+x = float(input("B = "))
+c = float(input("C = "))
+print("Min", min(z, x, c))
+print("Max", max(z, x, c))
